@@ -11,7 +11,7 @@
 <body style="padding-top: 60px">
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="ViewPublications.aspx">London Travel Info</a>
+            <a class="navbar-brand" href="Default.aspx">London Travel Info</a>
         </div>
     </div>
 
@@ -34,7 +34,7 @@
                 <asp:TextBox ID="PriceTextBox" runat="server"  CssClass="form-control" ReadOnly="true"></asp:TextBox>
             </div>
            
-            <input type="button" onclick="window.location = '/ViewPublications.aspx'" value="Back" class="btn btn-primary"/>
+            <input type="button" onclick="window.location = '/Default.aspx'" value="Back" class="btn btn-primary"/>
             
         </form>
     </div>

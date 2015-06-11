@@ -56,11 +56,11 @@ input[readonly] {
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand" href="ViewPublications.aspx">London Travel Info</a>
+                <a class="navbar-brand" href="Default.aspx">London Travel Info</a>
             </div>
              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li ><a href="ViewPublications.aspx">Découvrez Londres </a></li>
+                    <li ><a href="Default.aspx">Découvrez Londres </a></li>
                     <li class="active"><a href="#">New Publication</a></li>
                 </ul>
           </div>

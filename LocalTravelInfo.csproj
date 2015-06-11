@@ -75,7 +75,7 @@
     <Content Include="Content\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.woff2" />
-    <Content Include="ViewPublications.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="Published.aspx" />
     <Content Include="packages.config" />
     <Content Include="DownloadPublication.ashx" />
@@ -111,12 +111,12 @@
     <Compile Include="Model\TranslateTextResult.cs" />
     <Compile Include="Publication.cs" />
     <Compile Include="PublicationsRepository.cs" />
-    <Compile Include="ViewPublications.aspx.cs">
-      <DependentUpon>ViewPublications.aspx</DependentUpon>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="ViewPublications.aspx.designer.cs">
-      <DependentUpon>ViewPublications.aspx</DependentUpon>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Published.aspx.cs">
       <DependentUpon>Published.aspx</DependentUpon>

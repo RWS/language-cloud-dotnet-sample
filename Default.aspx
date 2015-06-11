@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ViewPublications.aspx.cs" Inherits="LocalTravelInfo.ViewPublications" Async="true" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="LocalTravelInfo.ViewPublications" Async="true" %>
 
 <!DOCTYPE html>
 
